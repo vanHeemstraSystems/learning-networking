@@ -33,3 +33,7 @@ Use **Tags** to categorize these (e.g., ```Docker```).
 See https://youtube.com
 
 ## Link Courses to ...
+
+Use **Tags** to categorize these (e.g., ```Docker```).
+
+See https://linuxacademy.com
