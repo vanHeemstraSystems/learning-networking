@@ -2,4 +2,4 @@
 
 Nobody reads the whole game manual before they start playing a video game.
 
-See on Project Board: "Step 7: Learn enough to get started" at https://github.com/orgs/vanHeemstraSystems/projects/4/views/1?pane=issue&itemId=21348334
+See on Project Board: "Step 7: Learn enough to get started" at https://github.com/orgs/vanHeemstraSystems/projects/34/views/1?layout=board&pane=issue&itemId=32297979
