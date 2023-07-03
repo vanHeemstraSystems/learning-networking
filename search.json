@@ -4,21 +4,35 @@
     "href": "themes.html",
     "title": "Themes",
     "section": "",
-    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-containerisation-themes/"
+    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-networking-themes/"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning - Networking",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Networking"
   },
   {
     "objectID": "initiative.html",
     "href": "initiative.html",
     "title": "Initiative",
     "section": "",
-    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-containerisation-initiative/"
+    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-networking-initiative/"
   },
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Learning - Containerisation",
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
     "section": "",
-    "text": "Table of contents\n\nLearning Containerisation"
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-networking-use-cases/"
   },
   {
     "objectID": "about.html",
@@ -26,19 +40,5 @@
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning - Containerisation",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "use-cases.html",
-    "href": "use-cases.html",
-    "title": "Use Cases",
-    "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-containerisation-use-cases/"
   }
 ]
