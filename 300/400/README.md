@@ -2,7 +2,7 @@
 
 Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
-![image](https://user-images.githubusercontent.com/1499433/221176298-a95e4423-6887-4a7c-af5e-0ece14a52317.png)
+![image](https://github.com/vanHeemstraSystems/learning-networking/assets/1499433/53b33c1a-9b35-41c1-a476-518c8c890a17)
 
 **Planning Your Minimum Viable Product (MVP)**
 
@@ -24,7 +24,7 @@ Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@Clr
 
 - Use "How might we" Statements or similar method to summarize the Pains and Gains you have identified.
 
-## (User) Stories for **Master Docker**:
+## (User) Stories for **Master VLANs**:
 
 Based on "10-Step Learning System by John Sonmez" at https://medium.com/the-polymath-project/how-to-learn-anything-the-sonmez-10-step-system-30f343cf1112 See also https://github.com/vanHeemstraSystems/10-step-learning-system
 
