@@ -4,4 +4,4 @@ Limit the size of what you want to learn. "Physics" or "philosophy" is too wide 
 
 We'll go for "VLANs".
 
-See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/4?pane=issue&itemId=21341973
+See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/34/views/1?layout=board&pane=issue&itemId=32297724
