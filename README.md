@@ -1,15 +1,15 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-containerisation/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-containerisation/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-networking/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-networking/actions/workflows/publish.yml)
 
-learning-containerisation
-# Learning Containerisation
+learning-networking
+# Learning Networking
 
 Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Learning - Containerisation" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/1NpLkOi7cDCUUxbcLkhD/
+Can be read as "Learning - Networking" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/1NpLkOi7cDCUUxbcLkhD/
 
-Can be browsed as "Learning - Containerisation" at https://vanheemstrasystems.github.io/learning-containerisation/
+Can be browsed as "Learning - Networking" at https://vanheemstrasystems.github.io/learning-networking/
 
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
