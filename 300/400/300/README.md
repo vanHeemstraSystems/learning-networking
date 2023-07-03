@@ -2,4 +2,4 @@
 
 Make a clear goal for your learning so you'll know when you get there.
 
-See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/4?pane=issue&itemId=21342439
+See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/34/views/1?layout=board&pane=issue&itemId=32297793
