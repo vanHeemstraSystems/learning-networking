@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
+    "section": "",
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-networking-use-cases/"
+  },
+  {
     "objectID": "themes.html",
     "href": "themes.html",
     "title": "Themes",
@@ -14,6 +21,13 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
     "title": "Table of contents",
@@ -26,19 +40,5 @@
     "title": "Initiative",
     "section": "",
     "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-networking-initiative/"
-  },
-  {
-    "objectID": "use-cases.html",
-    "href": "use-cases.html",
-    "title": "Use Cases",
-    "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-networking-use-cases/"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
